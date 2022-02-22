@@ -1,0 +1,1 @@
+web: gunicorn myfirstproj.wsgi
